@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T22:52:42.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="t3v3SYxl1tS4Zl56BDnh" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T22:58:29.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="FO-nvsj9BTkEsex_PYYE" version="20.4.0" type="github">
   <diagram id="be_BGbflEGEBLREiLtyJ" name="Page-1">
-    <mxGraphModel dx="1892" dy="2328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="1361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,10 +39,10 @@
         <mxCell id="tYCs_D2PuRrYNjhiUNpw-57" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="tYCs_D2PuRrYNjhiUNpw-56">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tYCs_D2PuRrYNjhiUNpw-58" value="Maps, forecasts" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="tYCs_D2PuRrYNjhiUNpw-56">
+        <mxCell id="tYCs_D2PuRrYNjhiUNpw-58" value="Logo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="tYCs_D2PuRrYNjhiUNpw-56">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tYCs_D2PuRrYNjhiUNpw-59" value="Table, sum, variables" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="tYCs_D2PuRrYNjhiUNpw-56">
+        <mxCell id="tYCs_D2PuRrYNjhiUNpw-59" value="Text, responsible" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="tYCs_D2PuRrYNjhiUNpw-56">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tYCs_D2PuRrYNjhiUNpw-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tYCs_D2PuRrYNjhiUNpw-60" target="tYCs_D2PuRrYNjhiUNpw-66">
